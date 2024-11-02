@@ -1,0 +1,6 @@
+@BestStories.Retreiver.Service_HostAddress = http://localhost:5192
+
+GET {{BestStories.Retreiver.Service_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

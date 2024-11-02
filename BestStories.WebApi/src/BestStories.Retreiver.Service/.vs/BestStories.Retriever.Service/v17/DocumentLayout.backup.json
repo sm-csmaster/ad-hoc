@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\D\\!MyProjects\\BestStories.Retriever\\src\\BestStories.Retreiver.Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CA60D59-4B57-4D07-ADEE-53CD796E048E}|..\\..\\tests\\BestStories.Retriever.Service.Tests\\BestStories.Retriever.Service.Tests.csproj|c:\\d\\!myprojects\\beststories.retriever\\tests\\beststories.retriever.service.tests\\storiescontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCDCF35-EA89-4019-9939-E433DFDB7BE7}|BestStories.Retriever.Service.csproj|c:\\d\\!myprojects\\beststories.retriever\\src\\beststories.retreiver.service\\controllers\\storiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCDCF35-EA89-4019-9939-E433DFDB7BE7}|BestStories.Retriever.Service.csproj|solutionrelative:controllers\\storiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0299DC-743A-428A-9E9D-EA453821DE53}|..\\..\\tests\\BestStories.Retriever.Application.Tests\\BestStories.Retriever.Application.Tests.csproj|c:\\d\\!myprojects\\beststories.retriever\\tests\\beststories.retriever.application.tests\\storyservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119FA4C4-3A55-4047-A95B-3E59E8D747CA}|..\\BestStories.Retriever.Application\\BestStories.Retriever.Application.csproj|c:\\d\\!myprojects\\beststories.retriever\\src\\beststories.retriever.application\\services\\storyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119FA4C4-3A55-4047-A95B-3E59E8D747CA}|..\\BestStories.Retriever.Application\\BestStories.Retriever.Application.csproj|c:\\d\\!myprojects\\beststories.retriever\\src\\beststories.retriever.application\\services\\cacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0299DC-743A-428A-9E9D-EA453821DE53}|..\\..\\tests\\BestStories.Retriever.Application.Tests\\BestStories.Retriever.Application.Tests.csproj|c:\\d\\!myprojects\\beststories.retriever\\tests\\beststories.retriever.application.tests\\cacheservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0299DC-743A-428A-9E9D-EA453821DE53}|..\\..\\tests\\BestStories.Retriever.Application.Tests\\BestStories.Retriever.Application.Tests.csproj|c:\\d\\!myprojects\\beststories.retriever\\tests\\beststories.retriever.application.tests\\beststories.retriever.application.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51E3961C-8D6F-4056-BEB1-534F3663A5E9}|Solution Items{51E3961C-8D6F-4056-BEB1-534F3663A5E9}|C:\\D\\!MyProjects\\BestStories.Retriever\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCDCF35-EA89-4019-9939-E433DFDB7BE7}|BestStories.Retriever.Service.csproj|c:\\d\\!myprojects\\beststories.retriever\\src\\beststories.retreiver.service\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CCDCF35-EA89-4019-9939-E433DFDB7BE7}|BestStories.Retriever.Service.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119FA4C4-3A55-4047-A95B-3E59E8D747CA}|..\\BestStories.Retriever.Application\\BestStories.Retriever.Application.csproj|c:\\d\\!myprojects\\beststories.retriever\\src\\beststories.retriever.application\\settings\\externalapisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119FA4C4-3A55-4047-A95B-3E59E8D747CA}|..\\BestStories.Retriever.Application\\BestStories.Retriever.Application.csproj|c:\\d\\!myprojects\\beststories.retriever\\src\\beststories.retriever.application\\dtos\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCDCF35-EA89-4019-9939-E433DFDB7BE7}|BestStories.Retriever.Service.csproj|c:\\d\\!myprojects\\beststories.retriever\\src\\beststories.retreiver.service\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCDCF35-EA89-4019-9939-E433DFDB7BE7}|BestStories.Retriever.Service.csproj|solutionrelative:middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCDCF35-EA89-4019-9939-E433DFDB7BE7}|BestStories.Retriever.Service.csproj|c:\\d\\!myprojects\\beststories.retriever\\src\\beststories.retreiver.service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CCDCF35-EA89-4019-9939-E433DFDB7BE7}|BestStories.Retriever.Service.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\D\\!MyProjects\\BestStories.Retreiver\\src\\BestStories.Retreiver.Application\\BestStories.Retreiver.Application\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 476,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StoryService.cs",
+              "DocumentMoniker": "C:\\D\\!MyProjects\\BestStories.Retriever\\src\\BestStories.Retriever.Application\\Services\\StoryService.cs",
+              "RelativeDocumentMoniker": "..\\BestStories.Retriever.Application\\Services\\StoryService.cs",
+              "ToolTip": "C:\\D\\!MyProjects\\BestStories.Retriever\\src\\BestStories.Retriever.Application\\Services\\StoryService.cs",
+              "RelativeToolTip": "..\\BestStories.Retriever.Application\\Services\\StoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAApwBAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:59:33.544Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\D\\!MyProjects\\BestStories.Retriever\\README.md",
+              "RelativeDocumentMoniker": "..\\..\\README.md",
+              "ToolTip": "C:\\D\\!MyProjects\\BestStories.Retriever\\README.md",
+              "RelativeToolTip": "..\\..\\README.md",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-11-01T18:32:01.937Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StoriesControllerTests.cs",
+              "DocumentMoniker": "C:\\D\\!MyProjects\\BestStories.Retriever\\tests\\BestStories.Retriever.Service.Tests\\StoriesControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\tests\\BestStories.Retriever.Service.Tests\\StoriesControllerTests.cs",
+              "ToolTip": "C:\\D\\!MyProjects\\BestStories.Retriever\\tests\\BestStories.Retriever.Service.Tests\\StoriesControllerTests.cs",
+              "RelativeToolTip": "..\\..\\tests\\BestStories.Retriever.Service.Tests\\StoriesControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:55:33.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoriesController.cs",
+              "DocumentMoniker": "C:\\D\\!MyProjects\\BestStories.Retriever\\src\\BestStories.Retreiver.Service\\Controllers\\StoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StoriesController.cs",
+              "ToolTip": "C:\\D\\!MyProjects\\BestStories.Retriever\\src\\BestStories.Retreiver.Service\\Controllers\\StoriesController.cs",
+              "RelativeToolTip": "Controllers\\StoriesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:20:45.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoryServiceTests.cs",
+              "DocumentMoniker": "C:\\D\\!MyProjects\\BestStories.Retriever\\tests\\BestStories.Retriever.Application.Tests\\StoryServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\tests\\BestStories.Retriever.Application.Tests\\StoryServiceTests.cs",
+              "ToolTip": "C:\\D\\!MyProjects\\BestStories.Retriever\\tests\\BestStories.Retriever.Application.Tests\\StoryServiceTests.cs",
+              "RelativeToolTip": "..\\..\\tests\\BestStories.Retriever.Application.Tests\\StoryServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:36:35.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CacheServiceTests.cs",
+              "DocumentMoniker": "C:\\D\\!MyProjects\\BestStories.Retriever\\tests\\BestStories.Retriever.Application.Tests\\CacheServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\..\\tests\\BestStories.Retriever.Application.Tests\\CacheServiceTests.cs",
+              "ToolTip": "C:\\D\\!MyProjects\\BestStories.Retriever\\tests\\BestStories.Retriever.Application.Tests\\CacheServiceTests.cs",
+              "RelativeToolTip": "..\\..\\tests\\BestStories.Retriever.Application.Tests\\CacheServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T18:49:39.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CacheService.cs",
+              "DocumentMoniker": "C:\\D\\!MyProjects\\BestStories.Retriever\\src\\BestStories.Retriever.Application\\Services\\CacheService.cs",
+              "RelativeDocumentMoniker": "..\\BestStories.Retriever.Application\\Services\\CacheService.cs",
+              "ToolTip": "C:\\D\\!MyProjects\\BestStories.Retriever\\src\\BestStories.Retriever.Application\\Services\\CacheService.cs",
+              "RelativeToolTip": "..\\BestStories.Retriever.Application\\Services\\CacheService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:54:23.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BestStories.Retriever.Application.Tests.csproj",
+              "DocumentMoniker": "C:\\D\\!MyProjects\\BestStories.Retriever\\tests\\BestStories.Retriever.Application.Tests\\BestStories.Retriever.Application.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\..\\tests\\BestStories.Retriever.Application.Tests\\BestStories.Retriever.Application.Tests.csproj",
+              "ToolTip": "C:\\D\\!MyProjects\\BestStories.Retriever\\tests\\BestStories.Retriever.Application.Tests\\BestStories.Retriever.Application.Tests.csproj",
+              "RelativeToolTip": "..\\..\\tests\\BestStories.Retriever.Application.Tests\\BestStories.Retriever.Application.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-01T18:38:45.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\D\\!MyProjects\\BestStories.Retriever\\src\\BestStories.Retreiver.Service\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\D\\!MyProjects\\BestStories.Retriever\\src\\BestStories.Retreiver.Service\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T18:16:18.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\D\\!MyProjects\\BestStories.Retriever\\src\\BestStories.Retreiver.Service\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\D\\!MyProjects\\BestStories.Retriever\\src\\BestStories.Retreiver.Service\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:40:54.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExternalApiSettings.cs",
+              "DocumentMoniker": "C:\\D\\!MyProjects\\BestStories.Retriever\\src\\BestStories.Retriever.Application\\Settings\\ExternalApiSettings.cs",
+              "RelativeDocumentMoniker": "..\\BestStories.Retriever.Application\\Settings\\ExternalApiSettings.cs",
+              "ToolTip": "C:\\D\\!MyProjects\\BestStories.Retriever\\src\\BestStories.Retriever.Application\\Settings\\ExternalApiSettings.cs",
+              "RelativeToolTip": "..\\BestStories.Retriever.Application\\Settings\\ExternalApiSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T13:20:14.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\D\\!MyProjects\\BestStories.Retriever\\src\\BestStories.Retreiver.Service\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\D\\!MyProjects\\BestStories.Retriever\\src\\BestStories.Retreiver.Service\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T13:17:23.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Story.cs",
+              "DocumentMoniker": "C:\\D\\!MyProjects\\BestStories.Retriever\\src\\BestStories.Retriever.Application\\DTOs\\Story.cs",
+              "RelativeDocumentMoniker": "..\\BestStories.Retriever.Application\\DTOs\\Story.cs",
+              "ToolTip": "C:\\D\\!MyProjects\\BestStories.Retriever\\src\\BestStories.Retriever.Application\\DTOs\\Story.cs",
+              "RelativeToolTip": "..\\BestStories.Retriever.Application\\DTOs\\Story.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:04:19.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\D\\!MyProjects\\BestStories.Retreiver\\src\\BestStories.Retreiver.Application\\BestStories.Retreiver.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\BestStories.Retreiver\\src\\BestStories.Retreiver.Application\\BestStories.Retreiver.Application\\Class1.cs",
+              "ToolTip": "C:\\D\\!MyProjects\\BestStories.Retreiver\\src\\BestStories.Retreiver.Application\\BestStories.Retreiver.Application\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\BestStories.Retreiver\\src\\BestStories.Retreiver.Application\\BestStories.Retreiver.Application\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:11:27.506Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 298,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{320fd13f-632f-4b16-9527-a1adfe555f6c}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

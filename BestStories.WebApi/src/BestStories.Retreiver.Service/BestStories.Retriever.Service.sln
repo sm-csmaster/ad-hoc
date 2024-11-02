@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BestStories.Retriever.Service", "BestStories.Retriever.Service.csproj", "{5CCDCF35-EA89-4019-9939-E433DFDB7BE7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{94F7684D-D89A-48D9-B671-24D9C5FA86F2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{E7A8771B-DA46-487F-8E7C-B269C218E5A1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BestStories.Retriever.Application", "..\BestStories.Retriever.Application\BestStories.Retriever.Application.csproj", "{119FA4C4-3A55-4047-A95B-3E59E8D747CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestStories.Retriever.Service.Tests", "..\..\tests\BestStories.Retriever.Service.Tests\BestStories.Retriever.Service.Tests.csproj", "{7CA60D59-4B57-4D07-ADEE-53CD796E048E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestStories.Retriever.Application.Tests", "..\..\tests\BestStories.Retriever.Application.Tests\BestStories.Retriever.Application.Tests.csproj", "{6C0299DC-743A-428A-9E9D-EA453821DE53}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{51E3961C-8D6F-4056-BEB1-534F3663A5E9}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\README.md = ..\..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CCDCF35-EA89-4019-9939-E433DFDB7BE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CCDCF35-EA89-4019-9939-E433DFDB7BE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CCDCF35-EA89-4019-9939-E433DFDB7BE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CCDCF35-EA89-4019-9939-E433DFDB7BE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{119FA4C4-3A55-4047-A95B-3E59E8D747CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119FA4C4-3A55-4047-A95B-3E59E8D747CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119FA4C4-3A55-4047-A95B-3E59E8D747CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119FA4C4-3A55-4047-A95B-3E59E8D747CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CA60D59-4B57-4D07-ADEE-53CD796E048E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CA60D59-4B57-4D07-ADEE-53CD796E048E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CA60D59-4B57-4D07-ADEE-53CD796E048E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CA60D59-4B57-4D07-ADEE-53CD796E048E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C0299DC-743A-428A-9E9D-EA453821DE53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C0299DC-743A-428A-9E9D-EA453821DE53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C0299DC-743A-428A-9E9D-EA453821DE53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C0299DC-743A-428A-9E9D-EA453821DE53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5CCDCF35-EA89-4019-9939-E433DFDB7BE7} = {94F7684D-D89A-48D9-B671-24D9C5FA86F2}
+		{119FA4C4-3A55-4047-A95B-3E59E8D747CA} = {94F7684D-D89A-48D9-B671-24D9C5FA86F2}
+		{7CA60D59-4B57-4D07-ADEE-53CD796E048E} = {E7A8771B-DA46-487F-8E7C-B269C218E5A1}
+		{6C0299DC-743A-428A-9E9D-EA453821DE53} = {E7A8771B-DA46-487F-8E7C-B269C218E5A1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {432CE163-D7BB-463C-B154-3479F594954F}
+	EndGlobalSection
+EndGlobal
